@@ -20,3 +20,6 @@ Com a utilização de interfaces padronizadas, são atribuidos alguns papéis ju
 - Ao utilizar esse método, estamos nós abrindo mão da utilização de construtores, isto é pode ser considerado bom ? Pode-se utilizar como retorno o caminho da classe para então permitir ao desenvolvedor a utilização do operador new para instanciar e então utilizar o construtor da classe ?
 
 #####Referências 
+[Source Making](https://sourcemaking.com/design_patterns/factory_method)
+
+[Livro de Design Patterns com PHP7](https://www.casadocodigo.com.br/products/livro-design-paterns-php)
